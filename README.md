@@ -1,6 +1,6 @@
 # 🌿 PlantCare AI — Streamlit App
 
-A polished and user-friendly Streamlit app for plant disease detection and severity guidance. Trained on the PlantVillage dataset model `plantvillage_phase3_epoch25_FINAL.h5`.
+A polished and user-friendly Streamlit app for plant disease detection and severity guidance. Trained on the PlantVillage dataset model. `plantvillage_phase3_epoch25_FINAL.h5`.
 
 ---
 
