@@ -29,7 +29,7 @@ A polished and user-friendly Streamlit app for plant disease detection and sever
 - **Improved UX**
   - No voice tab in main nav
   - Clear nav text and visible tab style
-  - Full screen, responsive layout
+  - Full screen and responsive layout
 
 ---
 
