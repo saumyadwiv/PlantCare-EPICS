@@ -11,7 +11,7 @@ A polished and user-friendly Streamlit app for plant disease detection and sever
   - Support jpg, jpeg, png, webp, bmp
   - Model outputs disease class and confidence
 - **Severity Tagging**
-  - `healthy`, `medium`, `high`
+  - `healthy`, `medium`, `high`,`low`
   - Advisor text for each severity level
 - **Visual Explanation**
   - Grad-CAM heatmap overlay on leaf image
